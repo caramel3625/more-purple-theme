@@ -93,32 +93,32 @@
             "#31233bCC"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#b4e9e1",
-            "#b4e9e1"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
             "#302738",
             "#302738"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#93b4b5",
-            "#93b4b5"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "CONTROL_PRIMARY_TEXT_DEFAULT": [
             "#302738",
             "#302738"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
-            "#b4e9e1B3",
-            "#b4e9e1B3"
+            "#bca7ccB3",
+            "#bca7ccB3"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#B4E9E180",
-            "#b4e9e180"
+            "#bca7ccB3",
+            "#bca7ccB3"
         ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
-            "#b4e9e1",
-            "#b4e9e1"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "CONTROL_SECONDARY_TEXT_DEFAULT": [
             "#302738",
