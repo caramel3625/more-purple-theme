@@ -99,22 +99,22 @@
             "#31233bCC"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#b4e9e1",
-            "#b4e9e1"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
             "#302738",
             "#302738"
         ],
         "CONTROL_CRITICAL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#99C7C0"
+            "#9f8dac"
         ],
         "CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
             "#9f8dac"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#9f8dac",
-            "#9f8dac"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "CONTROL_PRIMARY_TEXT_DEFAULT": [
             "#302738",
@@ -180,8 +180,8 @@
         "NEUTRAL_83": "#31233b",
         "BLURPLE_50": "#9f8dac",
         "RED_400": "#bca7cc",
-        "BRAND_630": "#31233b",
         "GREEN_360": "#b4e9e1",
+        "GREEN_400": "#99C7C0",
         "RED_NEW_50": "#bca7cc",
         "OPACITY_RED_4": "#bca7cc0A",
         "OPACITY_RED_8": "#bca7cc14",
