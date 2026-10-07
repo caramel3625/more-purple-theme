@@ -18,19 +18,13 @@
             "#31233b"
         ],
         "CARD_SECONDARY_BG": [
-            "#31233b"
+            "#291d32"
         ],
         "CARD_SECONDARY_BACKGROUND_DEFAULT": [
-            "#31233b"
-        ],
-        "CONTEXT_MENU_BACKDROP_BACKGROUND": [
             "#291d32"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#291d32",
-            "#291d32"
-        ],
-        "MODAL_BACKGROUND": [
             "#291d32"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
@@ -156,6 +150,12 @@
         "CONTROL_SECONDARY_TEXT_DEFAULT": [
             "#bca7cc",
             "#bca7cc"
+        ],
+        "EMBED_BACKGROUND": [
+            "#302738"
+        ],
+        "MOBILE_EMBED_BACKGROUND_DEFAULT": [
+            "#302738"
         ],
         "TEXT_LINK": [
             "#b4e9e1"
