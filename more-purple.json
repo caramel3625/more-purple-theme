@@ -8,18 +8,12 @@
         }
     ],
     "semanticColors": {
-        "BG_SURFACE_RAISED": [
-            "#31233b"
-        ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#291d32",
             "#291d32"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#31233bE4"
-        ],
-        "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
-            "#31233b"
         ],
         "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
             "#31233b"
@@ -178,21 +172,21 @@
         ]
     },
     "rawColors": {
-        "BRAND_500": "#b4e9e1",
+        "BRAND_500": "#bca7cc",
         "NEUTRAL_100": "#201926",
         "NEUTRAL_96": "#22182a",
         "NEUTRAL_90": "#291d32",
         "NEUTRAL_86": "#22182a",
         "NEUTRAL_83": "#31233b",
         "BLURPLE_50": "#9f8dac",
-        "RED_400": "#b4e9e1",
+        "RED_400": "#bca7cc",
         "GREEN_360": "#b4e9e1",
-        "RED_NEW_50": "#b4e9e1",
-        "OPACITY_RED_4": "#b4e9e10A",
-        "OPACITY_RED_8": "#b4e9e114",
-        "OPACITY_RED_12": "#b4e9e11F",
-        "OPACITY_RED_16": "#b4e9e129",
-        "OPACITY_RED_20": "#b4e9e133"
+        "RED_NEW_50": "#bca7cc",
+        "OPACITY_RED_4": "#bca7cc0A",
+        "OPACITY_RED_8": "#bca7cc14",
+        "OPACITY_RED_12": "#bca7cc1F",
+        "OPACITY_RED_16": "#bca7cc29",
+        "OPACITY_RED_20": "#bca7cc33"
     },
     "spec": 2
 }
