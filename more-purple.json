@@ -11,6 +11,9 @@
         "BACKGROUND_FLOATING": [
             "#31233b"
         ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#31233b"
+        ],
         "BG_SURFACE_RAISED": [
             "#31233b"
         ],
@@ -21,19 +24,22 @@
             "#31233b"
         ],
         "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-            "#31233b"
+            "#291d32"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#291d32",
             "#291d32"
         ],
         "MODAL_BACKGROUND": [
-            "#31233b"
+            "#291d32"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#31233bE4"
         ],
         "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
+            "#31233b"
+        ],
+        "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
             "#31233b"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
@@ -150,9 +156,6 @@
         "CONTROL_SECONDARY_TEXT_DEFAULT": [
             "#bca7cc",
             "#bca7cc"
-        ],
-        "TEXT_SUBTLE": [
-            "#3b2d45"
         ],
         "TEXT_LINK": [
             "#b4e9e1"
