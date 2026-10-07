@@ -8,9 +8,21 @@
         }
     ],
     "semanticColors": {
+        "BG_SURFACE_RAISED": [
+            "#31233b"
+        ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#291d32",
             "#291d32"
+        ],
+        "MOBILE_ACTIONSHEET_BACKGROUND": [
+            "#31233bE4"
+        ],
+        "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
+            "#31233b"
+        ],
+        "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
+            "#31233b"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#291d3280",
@@ -93,12 +105,18 @@
             "#31233bCC"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
+            "#b4e9e1",
+            "#b4e9e1"
         ],
         "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
             "#302738",
             "#302738"
+        ],
+        "CONTROL_CRITICAL_SECONDARY_BACKGROUND_DEFAULT": [
+            "#99C7C0"
+        ],
+        "CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
+            "#9f8dac"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#9f8dac",
@@ -124,6 +142,24 @@
             "#bca7cc",
             "#bca7cc"
         ],
+        "ICON_FEEDBACK_CRITICAL": [
+            "#b4e9e1"
+        ],
+        "EMBED_BACKGROUND": [
+            "#302738"
+        ],
+        "MOBILE_EMBED_BACKGROUND_DEFAULT": [
+            "#302738"
+        ],
+        "TEXT_LINK": [
+            "#b4e9e1"
+        ],
+        "STATUS_DANGER": [
+            "#b4e9e1"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#302738"
+        ],
         "TABLEROW_BACKGROUND_DEFAULT": [
             "#382744CC",
             "#382744CC"
@@ -142,14 +178,21 @@
         ]
     },
     "rawColors": {
-        "BRAND_300": "#9f8dac",
         "BRAND_500": "#b4e9e1",
-        "BLURPLE_50": "#9f8dac",
         "NEUTRAL_100": "#201926",
         "NEUTRAL_96": "#22182a",
         "NEUTRAL_90": "#291d32",
         "NEUTRAL_86": "#22182a",
-        "NEUTRAL_83": "#31233b"
+        "NEUTRAL_83": "#31233b",
+        "BLURPLE_50": "#9f8dac",
+        "RED_400": "#b4e9e1",
+        "GREEN_360": "#b4e9e1",
+        "RED_NEW_50": "#b4e9e1",
+        "OPACITY_RED_4": "#b4e9e10A",
+        "OPACITY_RED_8": "#b4e9e114",
+        "OPACITY_RED_12": "#b4e9e11F",
+        "OPACITY_RED_16": "#b4e9e129",
+        "OPACITY_RED_20": "#b4e9e133"
     },
     "spec": 2
 }
