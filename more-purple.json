@@ -9,9 +9,6 @@
     ],
     "semanticColors": {
         "BACKGROUND_FLOATING": [
-            "#31233b"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
             "#291d32"
         ],
         "BG_SURFACE_RAISED": [
@@ -185,7 +182,14 @@
         "NEUTRAL_86": "#22182a",
         "NEUTRAL_83": "#31233b",
         "BLURPLE_50": "#9f8dac",
-        "GREEN_360": "#b4e9e1"
+        "RED_400": "#b4e9e1",
+        "GREEN_360": "#b4e9e1",
+        "RED_NEW_50": "#b4e9e1",
+        "OPACITY_RED_4": "#b4e9e10A",
+        "OPACITY_RED_8": "#b4e9e114",
+        "OPACITY_RED_12": "#b4e9e11F",
+        "OPACITY_RED_16": "#b4e9e129",
+        "OPACITY_RED_20": "#b4e9e133"
     },
     "spec": 2
 }
