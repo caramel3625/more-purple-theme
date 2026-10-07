@@ -136,6 +136,21 @@
             "#bca7cc",
             "#bca7cc"
         ],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+            "#31233b"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#302738"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BORDER": [
+            "#bca7cc"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#bca7cc"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_TEXT": [
+            "#302738"
+        ],
         "ICON_FEEDBACK_CRITICAL": [
             "#b4e9e1"
         ],
@@ -144,6 +159,9 @@
         ],
         "MOBILE_EMBED_BACKGROUND_DEFAULT": [
             "#302738"
+        ],
+        "MOBILE_EMOJI_BUTTON_BACKGROUND": [
+            "#bca7cc"
         ],
         "TEXT_LINK": [
             "#b4e9e1"
@@ -180,8 +198,6 @@
         "NEUTRAL_83": "#31233b",
         "BLURPLE_50": "#9f8dac",
         "RED_400": "#bca7cc",
-        "GREEN_360": "#b4e9e1",
-        "GREEN_400": "#99C7C0",
         "RED_NEW_50": "#bca7cc",
         "OPACITY_RED_4": "#bca7cc0A",
         "OPACITY_RED_8": "#bca7cc14",
