@@ -8,9 +8,6 @@
         }
     ],
     "semanticColors": {
-        "BACKGROUND_FLOATING": [
-            "#291d32"
-        ],
         "BG_SURFACE_RAISED": [
             "#31233b"
         ],
@@ -156,6 +153,12 @@
         ],
         "STATUS_DANGER": [
             "#b4e9e1"
+        ],
+        "STATUS_DANGER_BACKGROUND": [
+            "#b4e9e1"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#302738"
         ],
         "TABLEROW_BACKGROUND_DEFAULT": [
             "#382744CC",
