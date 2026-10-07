@@ -93,36 +93,36 @@
             "#31233bCC"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
+            "#302738",
+            "#302738"
         ],
         "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
-            "#302738",
-            "#302738"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
-        ],
-        "CONTROL_PRIMARY_TEXT_DEFAULT": [
             "#302738",
             "#302738"
         ],
-        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
+        "CONTROL_PRIMARY_TEXT_DEFAULT": [
             "#bca7cc",
             "#bca7cc"
         ],
+        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
+            "#302738B3",
+            "#302738B3"
+        ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
+            "#30273880",
+            "#30273880"
         ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
             "#bca7cc",
             "#bca7cc"
         ],
         "CONTROL_SECONDARY_TEXT_DEFAULT": [
-            "#302738",
-            "#302738"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "TABLEROW_BACKGROUND_DEFAULT": [
             "#382744CC",
