@@ -142,7 +142,9 @@
         ]
     },
     "rawColors": {
+        "BRAND_300": "#9f8dac",
         "BRAND_500": "#b4e9e1",
+        "BLURPLE_50": "#9f8dac",
         "NEUTRAL_100": "#201926",
         "NEUTRAL_96": "#22182a",
         "NEUTRAL_90": "#291d32",
