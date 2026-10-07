@@ -101,28 +101,28 @@
             "#302738"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
+            "#9f8dac",
+            "#9f8dac"
         ],
         "CONTROL_PRIMARY_TEXT_DEFAULT": [
             "#302738",
             "#302738"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
-            "#bca7ccB3",
-            "#bca7ccB3"
+            "#9371ad80",
+            "#9371ad80"
         ],
         "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#bca7ccB3",
-            "#bca7ccB3"
+            "#9371AD40",
+            "#9371ad40"
         ],
         "CONTROL_SECONDARY_BORDER_DEFAULT": [
             "#bca7cc",
             "#bca7cc"
         ],
         "CONTROL_SECONDARY_TEXT_DEFAULT": [
-            "#302738",
-            "#302738"
+            "#bca7cc",
+            "#bca7cc"
         ],
         "TABLEROW_BACKGROUND_DEFAULT": [
             "#382744CC",
