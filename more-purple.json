@@ -112,6 +112,9 @@
             "#302738",
             "#302738"
         ],
+        "CONTROL_CRITICAL_SECONDARY_BACKGROUND_DEFAULT": [
+            "#99C7C0"
+        ],
         "CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
             "#9f8dac"
         ],
@@ -152,9 +155,6 @@
             "#b4e9e1"
         ],
         "STATUS_DANGER": [
-            "#b4e9e1"
-        ],
-        "STATUS_DANGER_BACKGROUND": [
             "#b4e9e1"
         ],
         "STATUS_DANGER_TEXT": [
