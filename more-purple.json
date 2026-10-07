@@ -1,0 +1,153 @@
+{
+    "name": "more purple",
+    "description": "subtle purple dark theme",
+    "authors": [
+        {
+            "name": "caramel",
+            "id": "295308882446647300"
+        }
+    ],
+    "semanticColors": {
+        "CHANNEL_BACKGROUND_DEFAULT": [
+            "#291d32",
+            "#291d32"
+        ],
+        "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
+            "#291d3280",
+            "#291d3280"
+        ],
+        "MOBILE_GUILDBAR_ICON_BACKGROUND_DEFAULT": [
+            "#302738",
+            "#302738"
+        ],
+        "MOBILE_GUILDBAR_ICON_DEFAULT": [
+            "#bca7cc",
+            "#bca7cc"
+        ],
+        "GUILD_FOLDER_BACKGROUND": [
+            "#22182a",
+            "#22182a"
+        ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#f2edf5",
+            "#f2edf5"
+        ],
+        "REDESIGN_CHANNEL_NAME_MUTED_TEXT": [
+            "#9371ad",
+            "#9371ad"
+        ],
+        "CHANNEL_ICON": [
+            "#9371ad",
+            "#9371ad"
+        ],
+        "MOBILE_CHANNEL_ITEM_BACKGROUND_SELECTED": [
+            "#393142",
+            "#393142"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
+            "#31233bE6",
+            "#31233bE6"
+        ],
+        "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
+            "#31233b",
+            "#31233b"
+        ],
+        "MOBILE_CHATINPUT_BORDER_DEFAULT": [
+            "#3a2c45",
+            "#3a2c45"
+        ],
+        "MOBILE_CHATINPUT_BORDER_ACTIVE": [
+            "#bca7cc",
+            "#bca7cc"
+        ],
+        "CHAT_INPUT_ICON_DEFAULT_TINT": [
+            "#bca7cc",
+            "#bca7cc"
+        ],
+        "CHAT_INPUT_ACTION_ICON_ACTIVE_TINT": [
+            "#f1edf5",
+            "#f1edf5"
+        ],
+        "BACKGROUND_BASE_LOW": [
+            "#291d32B3",
+            "#291d32B3"
+        ],
+        "BACKGROUND_BASE_LOWER": [
+            "#22182aB3",
+            "#22182aB3"
+        ],
+        "BACKGROUND_BASE_LOWEST": [
+            "#1a1320",
+            "#1a1320"
+        ],
+        "BACKGROUND_SURFACE_HIGH": [
+            "#291d32CC",
+            "#291d32CC"
+        ],
+        "BACKGROUND_SURFACE_HIGHEST": [
+            "#291d32",
+            "#291d32"
+        ],
+        "CARD_BACKGROUND_DEFAULT": [
+            "#31233bCC",
+            "#31233bCC"
+        ],
+        "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
+            "#b4e9e1",
+            "#b4e9e1"
+        ],
+        "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
+            "#302738",
+            "#302738"
+        ],
+        "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
+            "#93b4b5",
+            "#93b4b5"
+        ],
+        "CONTROL_PRIMARY_TEXT_DEFAULT": [
+            "#302738",
+            "#302738"
+        ],
+        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
+            "#b4e9e1B3",
+            "#b4e9e1B3"
+        ],
+        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
+            "#B4E9E180",
+            "#b4e9e180"
+        ],
+        "CONTROL_SECONDARY_BORDER_DEFAULT": [
+            "#b4e9e1",
+            "#b4e9e1"
+        ],
+        "CONTROL_SECONDARY_TEXT_DEFAULT": [
+            "#302738",
+            "#302738"
+        ],
+        "TABLEROW_BACKGROUND_DEFAULT": [
+            "#382744CC",
+            "#382744CC"
+        ],
+        "TEXT_DEFAULT": [
+            "#e6dfec",
+            "#e6dfec"
+        ],
+        "TEXT_MUTED": [
+            "#9371ad",
+            "#9371ad"
+        ],
+        "TEXT_BRAND": [
+            "#f2edf5",
+            "#f2edf5"
+        ]
+    },
+    "rawColors": {
+        "BRAND_500": "#b4e9e1",
+        "NEUTRAL_100": "#201926",
+        "NEUTRAL_96": "#22182a",
+        "NEUTRAL_90": "#291d32",
+        "NEUTRAL_86": "#22182a",
+        "NEUTRAL_83": "#31233b"
+    },
+    "spec": 2
+}
