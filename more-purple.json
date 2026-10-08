@@ -145,8 +145,17 @@
         "MOBILE_EMBED_BACKGROUND_DEFAULT": [
             "#302738"
         ],
-        "TEXT_LINK": [
-            "#b4e9e1"
+        "REACTION_BACKGROUND_DEFAULT": [
+            "#302738"
+        ],
+        "REACTION_BACKGROUND_REACTED_DEFAULT": [
+            "#3e2e4a"
+        ],
+        "REACTION_BORDER_DEFAULT": [
+            "#9371ad"
+        ],
+        "REACTION_BORDER_REACTED_DEFAULT": [
+            "#bca7cc"
         ],
         "STATUS_DANGER": [
             "#b4e9e1"
