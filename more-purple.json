@@ -8,15 +8,72 @@
         }
     ],
     "semanticColors": {
-        "CHANNEL_BACKGROUND_DEFAULT": [
-            "#291d32",
-            "#291d32"
+        "BACKGROUND_BRAND": [
+            "#bca7cc"
+        ],
+        "CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
+            "#9f8dac"
+        ],
+        "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
+            "#B35661"
+        ],
+        "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
+            "#302738"
+        ],
+        "CONTROL_CRITICAL_SECONDARY_BACKGROUND_DEFAULT": [
+            "#9f8dac"
+        ],
+        "CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
+            "#9f8dac"
+        ],
+        "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
+            "#B29FBF"
+        ],
+        "CONTROL_PRIMARY_TEXT_DEFAULT": [
+            "#302738"
+        ],
+        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
+            "#9371ad80"
+        ],
+        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
+            "#9371AD40"
+        ],
+        "CONTROL_SECONDARY_BORDER_DEFAULT": [
+            "#bca7cc"
+        ],
+        "CONTROL_SECONDARY_TEXT_DEFAULT": [
+            "#bca7cc"
+        ],
+        "ICON_FEEDBACK_CRITICAL": [
+            "#b4e9e1"
+        ],
+        "EMBED_BACKGROUND": [
+            "#302738"
+        ],
+        "MOBILE_EMBED_BACKGROUND_DEFAULT": [
+            "#302738"
+        ],
+        "STATUS_DANGER": [
+            "#b4e9e1"
+        ],
+        "STATUS_DANGER_TEXT": [
+            "#302738"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#31233bE4"
         ],
         "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
             "#31233b"
+        ],
+        "POLLS_VOTED_FILL": [
+            "#bca7cc"
+        ],
+        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#3e2e4a"
+        ],
+        "CHANNEL_BACKGROUND_DEFAULT": [
+            "#291d32",
+            "#291d32"
         ],
         "STANDALONE_CHANNEL_CONTENT_BACKGROUND": [
             "#291d3280",
@@ -98,62 +155,6 @@
             "#31233bCC",
             "#31233bCC"
         ],
-        "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
-        ],
-        "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
-            "#302738",
-            "#302738"
-        ],
-        "CONTROL_CRITICAL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#9f8dac"
-        ],
-        "CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
-            "#9f8dac"
-        ],
-        "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
-        ],
-        "CONTROL_PRIMARY_TEXT_DEFAULT": [
-            "#302738",
-            "#302738"
-        ],
-        "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
-            "#9371ad80",
-            "#9371ad80"
-        ],
-        "CONTROL_SECONDARY_BACKGROUND_DEFAULT": [
-            "#9371AD40",
-            "#9371ad40"
-        ],
-        "CONTROL_SECONDARY_BORDER_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
-        ],
-        "CONTROL_SECONDARY_TEXT_DEFAULT": [
-            "#bca7cc",
-            "#bca7cc"
-        ],
-        "ICON_FEEDBACK_CRITICAL": [
-            "#b4e9e1"
-        ],
-        "EMBED_BACKGROUND": [
-            "#302738"
-        ],
-        "MOBILE_EMBED_BACKGROUND_DEFAULT": [
-            "#302738"
-        ],
-        "TEXT_LINK": [
-            "#b4e9e1"
-        ],
-        "STATUS_DANGER": [
-            "#b4e9e1"
-        ],
-        "STATUS_DANGER_TEXT": [
-            "#302738"
-        ],
         "TABLEROW_BACKGROUND_DEFAULT": [
             "#382744CC",
             "#382744CC"
@@ -178,14 +179,17 @@
         "NEUTRAL_90": "#291d32",
         "NEUTRAL_86": "#22182a",
         "NEUTRAL_83": "#31233b",
+        "BRAND_345": "#9371ad",
         "BLURPLE_50": "#9f8dac",
+        "BLURPLE_65": "#9371ad",
         "RED_400": "#bca7cc",
         "RED_NEW_50": "#bca7cc",
         "OPACITY_RED_4": "#bca7cc0A",
         "OPACITY_RED_8": "#bca7cc14",
         "OPACITY_RED_12": "#bca7cc1F",
         "OPACITY_RED_16": "#bca7cc29",
-        "OPACITY_RED_20": "#bca7cc33"
+        "OPACITY_RED_20": "#bca7cc33",
+        "FOCUS_PRIMARY": "#9371ad"
     },
     "spec": 2
 }
