@@ -1,5 +1,5 @@
 {
-    "name": "more purple",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -15,7 +15,7 @@
             "#9f8dac"
         ],
         "CONTROL_CRITICAL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#B35661"
+            "#b34857"
         ],
         "CONTROL_CRITICAL_PRIMARY_TEXT_DEFAULT": [
             "#302738"
@@ -45,7 +45,7 @@
             "#bca7cc"
         ],
         "ICON_FEEDBACK_CRITICAL": [
-            "#b4e9e1"
+            "#b34857"
         ],
         "EMBED_BACKGROUND": [
             "#302738"
@@ -56,8 +56,14 @@
         "MOBILE_FLOATINGBAR_BACKGROUND": [
             "#31233b"
         ],
+        "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
+            "#31233b"
+        ],
+        "TEXT_LINK": [
+            "#8A8A8A"
+        ],
         "STATUS_DANGER": [
-            "#b4e9e1"
+            "#b34857"
         ],
         "STATUS_DANGER_TEXT": [
             "#302738"
@@ -65,13 +71,16 @@
         "MOBILE_ACTIONSHEET_BACKGROUND": [
             "#31233bE4"
         ],
-        "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
-            "#31233b"
-        ],
         "POLLS_VOTED_FILL": [
             "#bca7cc"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+            "#3e2e4a"
+        ],
+        "STATUS_DND": [
+            "#b34857"
+        ],
+        "REPLY_BAR": [
             "#3e2e4a"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
@@ -185,13 +194,28 @@
         "BRAND_345": "#9371ad",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
-        "RED_400": "#b34857",
-        "RED_NEW_50": "#b34857",
-        "OPACITY_RED_4": "#b348570A",
-        "OPACITY_RED_8": "#b3485714",
-        "OPACITY_RED_12": "#b348571F",
-        "OPACITY_RED_16": "#b3485729",
-        "OPACITY_RED_20": "#b3485733",
+        "RED_400": "#bca7cc",
+        "GREEN_260": "#95CCB0",
+        "GREEN_300": "#8CC6A8",
+        "GREEN_0": "#19734D",
+        "GREEN_345": "#82BFA0",
+        "GREEN_360": "#79B998",
+        "GREEN_400": "#70B390",
+        "GREEN_430": "#5BAD87",
+        "GREEN_460": "#46A67E",
+        "GREEN_500": "#40A078",
+        "GREEN_530": "#399971",
+        "GREEN_560": "#33936B",
+        "GREEN_600": "#2D8C65",
+        "GREEN_630": "#28865F",
+        "GREEN_660": "#228059",
+        "GREEN_700": "#1E7A53",
+        "RED_NEW_50": "#bca7cc",
+        "OPACITY_RED_4": "#bca7cc0A",
+        "OPACITY_RED_8": "#bca7cc14",
+        "OPACITY_RED_12": "#bca7cc1F",
+        "OPACITY_RED_16": "#bca7cc29",
+        "OPACITY_RED_20": "#bca7cc33",
         "FOCUS_PRIMARY": "#9371ad"
     },
     "spec": 2
