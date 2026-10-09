@@ -1,5 +1,5 @@
 {
-    "name": "more purple",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -52,6 +52,9 @@
         ],
         "MOBILE_EMBED_BACKGROUND_DEFAULT": [
             "#302738"
+        ],
+        "MOBILE_FLOATINGBAR_BACKGROUND": [
+            "#31233b"
         ],
         "STATUS_DANGER": [
             "#b4e9e1"
@@ -182,13 +185,13 @@
         "BRAND_345": "#9371ad",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
-        "RED_400": "#bca7cc",
-        "RED_NEW_50": "#bca7cc",
-        "OPACITY_RED_4": "#bca7cc0A",
-        "OPACITY_RED_8": "#bca7cc14",
-        "OPACITY_RED_12": "#bca7cc1F",
-        "OPACITY_RED_16": "#bca7cc29",
-        "OPACITY_RED_20": "#bca7cc33",
+        "RED_400": "#B35661",
+        "RED_NEW_50": "#B35661",
+        "OPACITY_RED_4": "#B356610A",
+        "OPACITY_RED_8": "#B3566114",
+        "OPACITY_RED_12": "#B356611F",
+        "OPACITY_RED_16": "#B3566129",
+        "OPACITY_RED_20": "#B3566133",
         "FOCUS_PRIMARY": "#9371ad"
     },
     "spec": 2
