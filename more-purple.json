@@ -59,8 +59,20 @@
         "MOBILE_FLOATINGBAR_BACKGROUND_NAMEPLATE": [
             "#31233b"
         ],
+        "REACTION_BACKGROUND_DEFAULT": [
+            "#302738"
+        ],
+        "REACTION_BACKGROUND_REACTED_DEFAULT": [
+            "#3e2e4a"
+        ],
+        "REACTION_BORDER_DEFAULT": [
+            "#9371ad"
+        ],
+        "REACTION_BORDER_REACTED_DEFAULT": [
+            "#bca7cc"
+        ],
         "TEXT_LINK": [
-            "#8A8A8A"
+            "#64A6D9"
         ],
         "STATUS_DANGER": [
             "#b34857"
