@@ -1,5 +1,5 @@
 {
-    "name": "more purple wip",
+    "name": "more purple",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -93,7 +93,7 @@
             "#b34857"
         ],
         "REPLY_BAR": [
-            "#3e2e4a"
+            "#302738"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#291d32",
