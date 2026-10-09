@@ -1,5 +1,5 @@
 # more-purple
-a simple purple dark theme for revenge/shiggycord
+a simple purple dark theme for revenge/shiggycord/kettu
 
 <img width="380" alt="Screenshot_20261007-164640" src="https://github.com/user-attachments/assets/95460c70-275e-4101-a23e-45d0cde04cf2" />
 <img width="380" alt="Screenshot_20261007-164633" src="https://github.com/user-attachments/assets/36659971-8e36-4b54-8c18-b80199c8e36a" />
