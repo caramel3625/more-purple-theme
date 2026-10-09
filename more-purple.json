@@ -1,5 +1,5 @@
 {
-    "name": "more purple",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -206,7 +206,7 @@
         "BRAND_345": "#9371ad",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
-        "RED_400": "#bca7cc",
+        "RED_400": "#9f8dac",
         "GREEN_260": "#95CCB0",
         "GREEN_300": "#8CC6A8",
         "GREEN_0": "#19734D",
@@ -222,12 +222,12 @@
         "GREEN_630": "#28865F",
         "GREEN_660": "#228059",
         "GREEN_700": "#1E7A53",
-        "RED_NEW_50": "#bca7cc",
-        "OPACITY_RED_4": "#bca7cc0A",
-        "OPACITY_RED_8": "#bca7cc14",
-        "OPACITY_RED_12": "#bca7cc1F",
-        "OPACITY_RED_16": "#bca7cc29",
-        "OPACITY_RED_20": "#bca7cc33",
+        "RED_NEW_50": "#9f8dac",
+        "OPACITY_RED_4": "#9f8dac0A",
+        "OPACITY_RED_8": "#9f8dac14",
+        "OPACITY_RED_12": "#9f8dac1F",
+        "OPACITY_RED_16": "#9f8dac29",
+        "OPACITY_RED_20": "#9f8dac33",
         "FOCUS_PRIMARY": "#9371ad"
     },
     "spec": 2
