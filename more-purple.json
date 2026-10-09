@@ -53,6 +53,9 @@
         "MOBILE_EMBED_BACKGROUND_DEFAULT": [
             "#302738"
         ],
+        "MOBILE_FLOATINGBAR_BACKGROUND": [
+            "#31233b"
+        ],
         "STATUS_DANGER": [
             "#b4e9e1"
         ],
@@ -182,13 +185,13 @@
         "BRAND_345": "#9371ad",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
-        "RED_400": "#bca7cc",
-        "RED_NEW_50": "#bca7cc",
-        "OPACITY_RED_4": "#bca7cc0A",
-        "OPACITY_RED_8": "#bca7cc14",
-        "OPACITY_RED_12": "#bca7cc1F",
-        "OPACITY_RED_16": "#bca7cc29",
-        "OPACITY_RED_20": "#bca7cc33",
+        "RED_400": "#b34857",
+        "RED_NEW_50": "#b34857",
+        "OPACITY_RED_4": "#b348570A",
+        "OPACITY_RED_8": "#b3485714",
+        "OPACITY_RED_12": "#b348571F",
+        "OPACITY_RED_16": "#b3485729",
+        "OPACITY_RED_20": "#b3485733",
         "FOCUS_PRIMARY": "#9371ad"
     },
     "spec": 2
