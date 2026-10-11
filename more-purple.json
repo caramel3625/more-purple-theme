@@ -1,5 +1,5 @@
 {
-    "name": "more purple wip",
+    "name": "more purple WIP",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "BACKGROUND_BRAND": [
-            "#a78cbd"
+            "#9d84b2"
         ],
         "CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
             "#9f8dac"
@@ -33,10 +33,10 @@
             "#40275485"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#a78cbd"
+            "#9d84b2"
         ],
         "CONTROL_PRIMARY_TEXT_DEFAULT": [
-            "#3e2e4a"
+            "#f2edf5"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
             "#9371ad80"
