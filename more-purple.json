@@ -1,5 +1,5 @@
 {
-    "name": "more purple WIP",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -12,16 +12,16 @@
             "#bca7cc"
         ],
         "BACKGROUND_SCRIM": [
-            "#b29fbf"
+            "#ffffff"
         ],
         "BACKGROUND_SCRIM_LIGHTBOX": [
-            "#b29fbf"
+            "#ffffff"
         ],
         "CHECKBOX_BACKGROUND_DEFAULT": [
             "#b29fbf14"
         ],
         "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-            "#b29fbf"
+            "#000000"
         ],
         "CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
             "#9f8dac"
@@ -42,7 +42,7 @@
             "#bca7cc"
         ],
         "CONTROL_OVERLAY_SECONDARY_BACKGROUND_DEFAULT": [
-            "#b29fbf"
+            "#000000"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#b29fbf"
@@ -93,7 +93,7 @@
             "#31233b"
         ],
         "OVERLAY_BACKDROP_LIGHTBOX": [
-            "#b29fbf"
+            "#000000"
         ],
         "REACTION_BACKGROUND_DEFAULT": [
             "#302738"
