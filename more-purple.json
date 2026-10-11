@@ -1,5 +1,5 @@
 {
-    "name": "more purple WIP",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -63,7 +63,7 @@
             "#bca7cc"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
-            "#3e2e4a"
+            "#31233b"
         ],
         "MOBILE_EMBED_BACKGROUND_DEFAULT": [
             "#302738"
@@ -194,8 +194,8 @@
             "#291d32"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#31233b",
-            "#31233b"
+            "#3e2e4a",
+            "#3e2e4a"
         ],
         "TABLEROW_BACKGROUND_DEFAULT": [
             "#38274414",
