@@ -1,5 +1,5 @@
 {
-    "name": "more purple WIP",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -69,7 +69,7 @@
             "#302738"
         ],
         "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
-            "#31233b"
+            "#3e2e4a"
         ],
         "MOBILE_FLOATINGBAR_BACKGROUND": [
             "#31233b"
