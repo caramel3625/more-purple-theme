@@ -1,5 +1,5 @@
 {
-    "name": "more purple wip",
+    "name": "more purple WIP",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -245,10 +245,13 @@
         "GREEN_NEW_22": "#ddc2f2",
         "GREEN_NEW_31": "#ddc2f2",
         "NEUTRAL_1": "#f1edf5",
+        "NEUTRAL_2": "#e6dfec",
+        "NEUTRAL_5": "#e6dfec",
         "NEUTRAL_16": "#bca7cc",
         "NEUTRAL_23": "#bca7cc",
         "NEUTRAL_64": "#31233b",
         "NEUTRAL_73": "#201926",
+        "NEUTRAL_76": "#35263f",
         "NEUTRAL_79": "#31233b",
         "NEUTRAL_83": "#31233b",
         "NEUTRAL_86": "#22182a",
