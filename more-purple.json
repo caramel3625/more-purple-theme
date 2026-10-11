@@ -72,7 +72,7 @@
             "#bca7cc"
         ],
         "TEXT_LINK": [
-            "#b3dde8"
+            "#64A6D9"
         ],
         "STATUS_DANGER": [
             "#b34857"
@@ -197,8 +197,8 @@
         ]
     },
     "rawColors": {
-        "BLUE_NEW_27": "#b3dde8",
-        "BLUE_NEW_37": "#b3dde8",
+        "BLUE_NEW_27": "#64A6D9",
+        "BLUE_NEW_37": "#64A6D9",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
         "BRAND_345": "#9371ad",
@@ -219,8 +219,8 @@
         "GREEN_630": "#28865F",
         "GREEN_660": "#228059",
         "GREEN_700": "#1E7A53",
-        "GREEN_NEW_22": "#b3dde8",
-        "GREEN_NEW_31": "#b3dde8",
+        "GREEN_NEW_22": "#D7CAE1",
+        "GREEN_NEW_31": "#D7CAE1",
         "NEUTRAL_1": "#f1edf5",
         "NEUTRAL_16": "#bca7cc",
         "NEUTRAL_23": "#bca7cc",
