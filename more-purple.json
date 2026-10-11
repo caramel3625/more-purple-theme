@@ -1,5 +1,5 @@
 {
-    "name": "more purple WIP",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "BACKGROUND_BRAND": [
-            "#bca7cc"
+            "#a78cbd"
         ],
         "CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
             "#9f8dac"
@@ -72,7 +72,7 @@
             "#302738"
         ],
         "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
-            "#31233b"
+            "#3a2a46"
         ],
         "MOBILE_FLOATINGBAR_BACKGROUND": [
             "#31233b"
@@ -242,7 +242,6 @@
         "GREEN_700": "#1E7A53",
         "GREEN_NEW_22": "#ddc2f2",
         "GREEN_NEW_31": "#ddc2f2",
-        "ILLO_BLUE_40": "#a78cbd",
         "NEUTRAL_1": "#f2edf5",
         "NEUTRAL_2": "#f1edf5",
         "NEUTRAL_5": "#e6dfec",
