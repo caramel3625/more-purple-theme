@@ -1,5 +1,5 @@
 {
-    "name": "more purple wip",
+    "name": "more purple WIP",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -30,7 +30,7 @@
             "#bca7cc"
         ],
         "CONTROL_OVERLAY_SECONDARY_BACKGROUND_DEFAULT": [
-            "#9f8dac85"
+            "#40275485"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#b29fbf"
