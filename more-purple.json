@@ -72,7 +72,7 @@
             "#bca7cc"
         ],
         "TEXT_LINK": [
-            "#cdb4e0"
+            "#e2c2ff"
         ],
         "STATUS_DANGER": [
             "#b34857"
@@ -197,8 +197,8 @@
         ]
     },
     "rawColors": {
-        "BLUE_NEW_27": "#e2bdff",
-        "BLUE_NEW_37": "#e2bdff",
+        "BLUE_NEW_27": "#e2c2ff",
+        "BLUE_NEW_37": "#e2c2ff",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
         "BRAND_345": "#9371ad",
