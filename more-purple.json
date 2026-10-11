@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "BACKGROUND_BRAND": [
-            "#bca7cc"
+            "#9d84b2"
         ],
         "CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
             "#9f8dac"
@@ -33,10 +33,10 @@
             "#40275485"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#b29fbf"
+            "#9d84b2"
         ],
         "CONTROL_PRIMARY_TEXT_DEFAULT": [
-            "#302738"
+            "#f2edf5"
         ],
         "CONTROL_SECONDARY_BACKGROUND_ACTIVE": [
             "#9371ad80"
@@ -72,7 +72,7 @@
             "#302738"
         ],
         "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
-            "#31233b"
+            "#3a2a46"
         ],
         "MOBILE_FLOATINGBAR_BACKGROUND": [
             "#31233b"
@@ -109,9 +109,6 @@
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#3e2e4a"
-        ],
-        "REPLY_BAR": [
-            "#302738"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#291d32",
@@ -250,6 +247,8 @@
         "NEUTRAL_5": "#e6dfec",
         "NEUTRAL_16": "#bca7cc",
         "NEUTRAL_23": "#bca7cc",
+        "NEUTRAL_29": "#bca7cc",
+        "NEUTRAL_31": "#b8a0ca",
         "NEUTRAL_64": "#31233b",
         "NEUTRAL_73": "#201926",
         "NEUTRAL_76": "#35263f",
