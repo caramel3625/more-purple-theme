@@ -1,5 +1,5 @@
 {
-    "name": "more purple wip",
+    "name": "more purple WIP",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -95,9 +95,6 @@
         "REACTION_TEXT_DEFAULT": [
             "#bca7cc"
         ],
-        "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#000000"
-        ],
         "TEXT_LINK": [
             "#dcb8ff"
         ],
@@ -112,9 +109,6 @@
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
             "#3e2e4a"
-        ],
-        "REPLY_BAR": [
-            "#302738"
         ],
         "CHANNEL_BACKGROUND_DEFAULT": [
             "#291d32",
@@ -229,7 +223,7 @@
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
         "BRAND_345": "#9371ad",
-        "BRAND_500": "#a78cbd",
+        "BRAND_500": "#bca7cc",
         "FOCUS_PRIMARY": "#9371ad",
         "GREEN_0": "#19734D",
         "GREEN_260": "#95ccB0",
@@ -248,6 +242,7 @@
         "GREEN_700": "#1E7A53",
         "GREEN_NEW_22": "#ddc2f2",
         "GREEN_NEW_31": "#ddc2f2",
+        "ILLO_BLUE_40": "#a78cbd",
         "NEUTRAL_1": "#f2edf5",
         "NEUTRAL_2": "#f1edf5",
         "NEUTRAL_5": "#e6dfec",
