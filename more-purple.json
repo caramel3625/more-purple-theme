@@ -1,5 +1,5 @@
 {
-    "name": "more purple",
+    "name": "more purple WIP",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -26,6 +26,9 @@
         "CONTROL_EXPRESSIVE_BACKGROUND_DEFAULT": [
             "#9f8dac"
         ],
+        "CONTROL_ICON_ONLY_ICON_DEFAULT": [
+            "#bca7cc"
+        ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#b29fbf"
         ],
@@ -44,14 +47,29 @@
         "CONTROL_SECONDARY_TEXT_DEFAULT": [
             "#bca7cc"
         ],
-        "ICON_FEEDBACK_CRITICAL": [
-            "#b34857"
-        ],
         "EMBED_BACKGROUND": [
             "#302738"
         ],
+        "ICON_FEEDBACK_CRITICAL": [
+            "#b34857"
+        ],
+        "ICON_SUBTLE": [
+            "#bca7cc"
+        ],
+        "INPUT_ICON_DEFAULT": [
+            "#bca7cc"
+        ],
+        "INTERACTIVE_ICON_DEFAULT": [
+            "#bca7cc"
+        ],
+        "MOBILE_ACTIONSHEET_BACKGROUND": [
+            "#31233b"
+        ],
         "MOBILE_EMBED_BACKGROUND_DEFAULT": [
             "#302738"
+        ],
+        "MOBILE_FLOATING_ACCESSORY_BACKGROUND": [
+            "#31233b"
         ],
         "MOBILE_FLOATINGBAR_BACKGROUND": [
             "#31233b"
@@ -71,6 +89,9 @@
         "REACTION_BORDER_REACTED_DEFAULT": [
             "#bca7cc"
         ],
+        "REACTION_TEXT_DEFAULT": [
+            "#bca7cc"
+        ],
         "TEXT_LINK": [
             "#e2c2ff"
         ],
@@ -79,9 +100,6 @@
         ],
         "STATUS_DANGER_TEXT": [
             "#302738"
-        ],
-        "MOBILE_ACTIONSHEET_BACKGROUND": [
-            "#31233be4"
         ],
         "POLLS_VOTED_FILL": [
             "#bca7cc"
@@ -176,12 +194,16 @@
             "#291d32"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#31233bcc",
-            "#31233bcc"
+            "#31233b",
+            "#31233b"
         ],
         "TABLEROW_BACKGROUND_DEFAULT": [
-            "#382744cc",
-            "#382744cc"
+            "#38274414",
+            "#38274414"
+        ],
+        "TABLEROW_BACKGROUND_PRESSED": [
+            "#38274429",
+            "#38274429"
         ],
         "TEXT_DEFAULT": [
             "#e6dfec",
@@ -199,6 +221,7 @@
     "rawColors": {
         "BLUE_NEW_27": "#e2c2ff",
         "BLUE_NEW_37": "#e2c2ff",
+        "BLURPLE_36": "#e2c2ff",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
         "BRAND_345": "#9371ad",
@@ -233,8 +256,107 @@
         "NEUTRAL_92": "#201926",
         "NEUTRAL_96": "#22182a",
         "NEUTRAL_100": "#201926",
+        "OPACITY_1": "#30273805",
+        "OPACITY_4": "#3027380a",
+        "OPACITY_8": "#30273814",
         "OPACITY_12": "#3027381f",
+        "OPACITY_16": "#30273829",
+        "OPACITY_20": "#30273833",
+        "OPACITY_24": "#3027383d",
+        "OPACITY_28": "#30273847",
+        "OPACITY_32": "#30273852",
+        "OPACITY_36": "#3027385c",
+        "OPACITY_40": "#30273866",
+        "OPACITY_44": "#30273870",
+        "OPACITY_48": "#3027387a",
+        "OPACITY_52": "#30273885",
+        "OPACITY_56": "#3027388f",
+        "OPACITY_60": "#30273899",
+        "OPACITY_64": "#302738a3",
+        "OPACITY_68": "#302738ad",
+        "OPACITY_72": "#302738b8",
+        "OPACITY_76": "#302738c2",
+        "OPACITY_80": "#302738cc",
+        "OPACITY_84": "#302738d6",
+        "OPACITY_88": "#302738e0",
+        "OPACITY_92": "#302738eb",
+        "OPACITY_96": "#302738f5",
+        "OPACITY_BLACK_1": "#1a132005",
+        "OPACITY_BLACK_4": "#1a13200a",
+        "OPACITY_BLACK_8": "#1a132014",
+        "OPACITY_BLACK_12": "#1a13201f",
+        "OPACITY_BLACK_16": "#1a132029",
+        "OPACITY_BLACK_20": "#1a132033",
+        "OPACITY_BLACK_24": "#1a13203d",
+        "OPACITY_BLACK_28": "#1a132047",
+        "OPACITY_BLACK_32": "#1a132052",
+        "OPACITY_BLACK_36": "#1a13205c",
+        "OPACITY_BLACK_40": "#1a132066",
+        "OPACITY_BLACK_44": "#1a132070",
+        "OPACITY_BLACK_48": "#1a13207a",
+        "OPACITY_BLACK_52": "#1a132085",
+        "OPACITY_BLACK_56": "#1a13208f",
+        "OPACITY_BLACK_60": "#1a132099",
+        "OPACITY_BLACK_64": "#1a1320a3",
+        "OPACITY_BLACK_68": "#1a1320ad",
+        "OPACITY_BLACK_72": "#1a1320b8",
+        "OPACITY_BLACK_76": "#1a1320c2",
+        "OPACITY_BLACK_80": "#1a1320cc",
+        "OPACITY_BLACK_84": "#1a1320d6",
+        "OPACITY_BLACK_88": "#1a1320e0",
+        "OPACITY_BLACK_92": "#1a1320eb",
+        "OPACITY_BLACK_96": "#1a1320f5",
+        "OPACITY_BLUE_1": "#9371ad05",
+        "OPACITY_BLUE_4": "#9371ad0a",
+        "OPACITY_BLUE_8": "#9371ad14",
+        "OPACITY_BLUE_12": "#9371ad1f",
+        "OPACITY_BLUE_16": "#9371ad29",
+        "OPACITY_BLUE_20": "#9371ad33",
+        "OPACITY_BLUE_24": "#9371ad3d",
+        "OPACITY_BLUE_28": "#9371ad47",
+        "OPACITY_BLUE_32": "#9371ad52",
+        "OPACITY_BLUE_36": "#9371ad5c",
+        "OPACITY_BLUE_40": "#9371ad66",
+        "OPACITY_BLUE_44": "#9371ad70",
+        "OPACITY_BLUE_48": "#9371ad7a",
+        "OPACITY_BLUE_52": "#9371ad85",
+        "OPACITY_BLUE_56": "#9371ad8f",
+        "OPACITY_BLUE_60": "#9371ad99",
+        "OPACITY_BLUE_64": "#9371ada3",
+        "OPACITY_BLUE_68": "#9371adad",
+        "OPACITY_BLUE_72": "#9371adb8",
+        "OPACITY_BLUE_76": "#9371adc2",
+        "OPACITY_BLUE_80": "#9371adcc",
+        "OPACITY_BLUE_84": "#9371add6",
+        "OPACITY_BLUE_88": "#9371ade0",
+        "OPACITY_BLUE_92": "#9371adeb",
+        "OPACITY_BLUE_96": "#9371adf5",
         "OPACITY_BLURPLE_24": "#9371ad3d",
+        "OPACITY_PINK_1": "#e2c2ff05",
+        "OPACITY_PINK_4": "#e2c2ff0a",
+        "OPACITY_PINK_8": "#e2c2ff14",
+        "OPACITY_PINK_12": "#e2c2ff1f",
+        "OPACITY_PINK_16": "#e2c2ff29",
+        "OPACITY_PINK_20": "#e2c2ff33",
+        "OPACITY_PINK_24": "#e2c2ff3d",
+        "OPACITY_PINK_28": "#e2c2ff47",
+        "OPACITY_PINK_32": "#e2c2ff52",
+        "OPACITY_PINK_36": "#e2c2ff5c",
+        "OPACITY_PINK_40": "#e2c2ff66",
+        "OPACITY_PINK_44": "#e2c2ff70",
+        "OPACITY_PINK_48": "#e2c2ff7a",
+        "OPACITY_PINK_52": "#e2c2ff85",
+        "OPACITY_PINK_56": "#e2c2ff8f",
+        "OPACITY_PINK_60": "#e2c2ff99",
+        "OPACITY_PINK_64": "#e2c2ffa3",
+        "OPACITY_PINK_68": "#e2c2ffad",
+        "OPACITY_PINK_72": "#e2c2ffb8",
+        "OPACITY_PINK_76": "#e2c2ffc2",
+        "OPACITY_PINK_80": "#e2c2ffcc",
+        "OPACITY_PINK_84": "#e2c2ffd6",
+        "OPACITY_PINK_88": "#e2c2ffe0",
+        "OPACITY_PINK_92": "#e2c2ffeb",
+        "OPACITY_PINK_96": "#e2c2fff5",
         "OPACITY_RED_4": "#a38cb30a",
         "OPACITY_RED_8": "#a38cb314",
         "OPACITY_RED_12": "#a38cb31f",
