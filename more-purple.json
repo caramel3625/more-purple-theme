@@ -27,7 +27,7 @@
             "#9f8dac"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
-            "#B29FBF"
+            "#b29fbf"
         ],
         "CONTROL_PRIMARY_TEXT_DEFAULT": [
             "#302738"
@@ -72,7 +72,7 @@
             "#bca7cc"
         ],
         "TEXT_LINK": [
-            "#64A6D9"
+            "#cdb4e0"
         ],
         "STATUS_DANGER": [
             "#b34857"
@@ -81,7 +81,7 @@
             "#302738"
         ],
         "MOBILE_ACTIONSHEET_BACKGROUND": [
-            "#31233bE4"
+            "#31233be4"
         ],
         "POLLS_VOTED_FILL": [
             "#bca7cc"
@@ -132,8 +132,8 @@
             "#393142"
         ],
         "MOBILE_CHATINPUT_BACKGROUND_DEFAULT": [
-            "#31233bE6",
-            "#31233bE6"
+            "#31233be6",
+            "#31233be6"
         ],
         "MOBILE_CHATINPUT_BACKGROUND_ACTIVE": [
             "#31233b",
@@ -156,32 +156,32 @@
             "#f1edf5"
         ],
         "BACKGROUND_BASE_LOW": [
-            "#291d32B3",
-            "#291d32B3"
+            "#291d32b3",
+            "#291d32b3"
         ],
         "BACKGROUND_BASE_LOWER": [
-            "#22182aB3",
-            "#22182aB3"
+            "#22182ab3",
+            "#22182ab3"
         ],
         "BACKGROUND_BASE_LOWEST": [
             "#1a1320",
             "#1a1320"
         ],
         "BACKGROUND_SURFACE_HIGH": [
-            "#291d32CC",
-            "#291d32CC"
+            "#291d32cc",
+            "#291d32cc"
         ],
         "BACKGROUND_SURFACE_HIGHEST": [
             "#291d32",
             "#291d32"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#31233bCC",
-            "#31233bCC"
+            "#31233bcc",
+            "#31233bcc"
         ],
         "TABLEROW_BACKGROUND_DEFAULT": [
-            "#382744CC",
-            "#382744CC"
+            "#382744cc",
+            "#382744cc"
         ],
         "TEXT_DEFAULT": [
             "#e6dfec",
@@ -197,19 +197,19 @@
         ]
     },
     "rawColors": {
-        "BLUE_NEW_27": "#64A6D9",
-        "BLUE_NEW_37": "#64A6D9",
+        "BLUE_NEW_27": "#cdb4e0",
+        "BLUE_NEW_37": "#cdb4e0",
         "BLURPLE_50": "#9f8dac",
         "BLURPLE_65": "#9371ad",
         "BRAND_345": "#9371ad",
         "BRAND_500": "#bca7cc",
         "FOCUS_PRIMARY": "#9371ad",
         "GREEN_0": "#19734D",
-        "GREEN_260": "#95CCB0",
-        "GREEN_300": "#8CC6A8",
+        "GREEN_260": "#95ccB0",
+        "GREEN_300": "#8cc6A8",
         "GREEN_345": "#82BFA0",
-        "GREEN_360": "#b3dde8",
-        "GREEN_400": "#70B390",
+        "GREEN_360": "#cdb4e0",
+        "GREEN_400": "#70b390",
         "GREEN_430": "#5BAD87",
         "GREEN_460": "#46A67E",
         "GREEN_500": "#40A078",
@@ -219,8 +219,8 @@
         "GREEN_630": "#28865F",
         "GREEN_660": "#228059",
         "GREEN_700": "#1E7A53",
-        "GREEN_NEW_22": "#D7CAE1",
-        "GREEN_NEW_31": "#D7CAE1",
+        "GREEN_NEW_22": "#cdb4e0",
+        "GREEN_NEW_31": "#cdb4e0",
         "NEUTRAL_1": "#f1edf5",
         "NEUTRAL_16": "#bca7cc",
         "NEUTRAL_23": "#bca7cc",
@@ -235,11 +235,11 @@
         "NEUTRAL_100": "#201926",
         "OPACITY_12": "#3027381f",
         "OPACITY_BLURPLE_24": "#9371ad3d",
-        "OPACITY_RED_4": "#A38CB30A",
-        "OPACITY_RED_8": "#A38CB314",
-        "OPACITY_RED_12": "#A38CB31F",
-        "OPACITY_RED_16": "#A38CB329",
-        "OPACITY_RED_20": "#A38CB333",
+        "OPACITY_RED_4": "#a38cb30a",
+        "OPACITY_RED_8": "#a38cb314",
+        "OPACITY_RED_12": "#a38cb31f",
+        "OPACITY_RED_16": "#a38cb329",
+        "OPACITY_RED_20": "#a38cb333",
         "OPACITY_WHITE_1": "#f2edf505",
         "OPACITY_WHITE_4": "#f2edf50a",
         "OPACITY_WHITE_8": "#f2edf514",
@@ -265,9 +265,9 @@
         "OPACITY_WHITE_88": "#f2edf5e0",
         "OPACITY_WHITE_92": "#f2edf5eb",
         "OPACITY_WHITE_96": "#f2edf5f5",
-        "RED_400": "#A38CB3",
+        "RED_400": "#a38cb3",
         "RED_NEW_45": "#b34857",
-        "RED_NEW_50": "#A38CB3",
+        "RED_NEW_50": "#a38cb3",
         "WHITE": "#f2edf5",
         "WHITE_500": "#f2edf5"
     },
