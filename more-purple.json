@@ -1,5 +1,5 @@
 {
-    "name": "more purple wip",
+    "name": "more purple WIP",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -194,8 +194,8 @@
             "#291d32"
         ],
         "CARD_BACKGROUND_DEFAULT": [
-            "#31233b",
-            "#31233b"
+            "#3a2846",
+            "#3a2846"
         ],
         "TABLEROW_BACKGROUND_DEFAULT": [
             "#38274414",
