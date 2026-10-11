@@ -1,5 +1,5 @@
 {
-    "name": "more purple WIP",
+    "name": "more purple wip",
     "description": "a simple purple dark theme",
     "authors": [
         {
@@ -10,9 +10,6 @@
     "semanticColors": {
         "BACKGROUND_BRAND": [
             "#bca7cc"
-        ],
-        "CHECKBOX_BACKGROUND_DEFAULT": [
-            "#b29fbf14"
         ],
         "CONTROL_CONNECTED_BACKGROUND_DEFAULT": [
             "#9f8dac"
@@ -31,6 +28,9 @@
         ],
         "CONTROL_ICON_ONLY_ICON_DEFAULT": [
             "#bca7cc"
+        ],
+        "CONTROL_OVERLAY_SECONDARY_BACKGROUND_ACTIVE": [
+            "#ffffff"
         ],
         "CONTROL_PRIMARY_BACKGROUND_DEFAULT": [
             "#b29fbf"
